@@ -1,0 +1,6 @@
+transformers
+accelerate
+evaluate
+datasets
+peft
+Pillow
